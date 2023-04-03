@@ -1,0 +1,10 @@
+echo "# Tec.TI" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jvrocha91/Tec.TI.git
+git push -u origin main
+
+Joao Victor Bezerra Batista Rocha
+RA: 22020875
